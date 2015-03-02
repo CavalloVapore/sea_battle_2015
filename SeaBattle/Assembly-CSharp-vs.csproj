@@ -46,14 +46,21 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Buildings.cs" />
      <Compile Include="Assets\Scripts\CameraMove.cs" />
+     <Compile Include="Assets\Scripts\Income.cs" />
+     <Compile Include="Assets\Scripts\Index_Units.cs" />
      <Compile Include="Assets\Scripts\Map.cs" />
+     <Compile Include="Assets\Scripts\Production.cs" />
+     <Compile Include="Assets\Scripts\Resources.cs" />
      <Compile Include="Assets\Scripts\SelectShip.cs" />
+     <Compile Include="Assets\Scripts\Shipyard.cs" />
      <Compile Include="Assets\Scripts\TileDatabase.cs" />
      <Compile Include="Assets\Scripts\Tiles.cs" />
+     <Compile Include="Assets\Scripts\Unit_Database.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/Jan/Documents/SeaBattle/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/user/Documents/Wasserstrat/sea_battle_2015/SeaBattle/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
